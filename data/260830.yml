@@ -1,0 +1,62 @@
+about:
+  description: CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
+  license: MIT
+  homepage: https://mcpm.sh/
+  head: 6a92e54
+  archived: false
+  latestVersion: v2.15.0
+  collectedAt: 2026-08-30T05:33:37Z
+timeline:
+  created: 2025-03-21
+  lastCommit: 2026-05-22
+  lastRelease: 2026-05-22
+popularity:
+  star: 993
+  watcher: 11
+  fork: 122
+  release: 56
+  contributor: 35
+  pullRequest: 67
+  issue: 113
+language:
+  Python: 851392
+  HTML: 113090
+  Shell: 14352
+  CSS: 2830
+  Nix: 2587
+  Dockerfile: 721
+  JavaScript: 77
+totalLine: 985049
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 0
+    openPR: 8
+    closedIssue: 0
+    openIssue: 9
+    commit: 0
+  last90d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 0
+    openPR: 23
+    closedIssue: 0
+    openIssue: 16
+    commit: 0
+  last180d:
+    since: 2026-03-03
+    release: 2
+    mergedPR: 3
+    openPR: 30
+    closedIssue: 5
+    openIssue: 20
+    commit: 6
+  last360d:
+    since: 2025-09-04
+    release: 12
+    mergedPR: 27
+    openPR: 39
+    closedIssue: 17
+    openIssue: 26
+    commit: 47
