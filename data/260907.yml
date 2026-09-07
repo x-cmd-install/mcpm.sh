@@ -5,7 +5,7 @@ about:
   head: 6a92e54
   archived: false
   latestVersion: "v2.15.0"
-  collectedAt: 2026-09-07T05:07:37Z
+  collectedAt: 2026-09-07T19:20:50Z
 timeline:
   created: 2025-03-21
   lastCommit: 2026-05-22
@@ -13,11 +13,11 @@ timeline:
 popularity:
   star: 997
   watcher: 14
-  fork: 125
+  fork: 126
   release: 56
   contributor: 35
-  pullRequest: 254
-  issue: 117
+  pullRequest: 255
+  issue: 118
 language:
   Python: 851392
   HTML: 113090
@@ -32,60 +32,60 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 0
-    openPR: 11
+    openPR: 12
     closedIssue: 1
-    openIssue: 11
+    openIssue: 12
     commit: 0
   last60d:
     since: 2026-07-09
     release: 0
     mergedPR: 0
-    openPR: 17
+    openPR: 18
     closedIssue: 2
-    openIssue: 13
+    openIssue: 14
     commit: 0
   last90d:
     since: 2026-06-09
     release: 0
     mergedPR: 0
-    openPR: 25
+    openPR: 26
     closedIssue: 2
-    openIssue: 18
+    openIssue: 19
     commit: 0
   last180d:
     since: 2026-03-11
     release: 2
     mergedPR: 3
-    openPR: 33
+    openPR: 34
     closedIssue: 7
-    openIssue: 22
+    openIssue: 23
     commit: 6
   last360d:
     since: 2025-09-12
     release: 10
     mergedPR: 25
-    openPR: 42
+    openPR: 43
     closedIssue: 18
-    openIssue: 27
+    openIssue: 28
     commit: 31
   last720d:
     since: 2024-09-17
     release: 56
     mergedPR: 182
-    openPR: 42
+    openPR: 43
     closedIssue: 73
-    openIssue: 44
+    openIssue: 45
     commit: 362
 total:
   release: 56
   mergedPR: 182
-  openPR: 42
+  openPR: 43
   closedIssue: 73
-  openIssue: 44
+  openIssue: 45
   commit: 362
 ---
 path: /home/runner/.x-repo/github.com/pathintegral-institute/mcpm.sh
-collectedAt: 2026-09-07T05:07:38Z
+collectedAt: 2026-09-07T19:20:52Z
 loc:
   Json:
     code: 104878
@@ -166,7 +166,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:07:39+00:00
+  collectedAt: 2026-09-07T19:20:52+00:00
   platform:
     darwin/arm64:
       name:  null
