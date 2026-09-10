@@ -4,7 +4,7 @@
 
 CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 
-![mcpm.sh](https://repo.x-cmd.io/mcpm.sh.svg)
+![mcpm.sh](https://repo.x-cmd.io/mcpm.sh.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,22 @@ x install mcpm.sh
 
 - **最新版本**: `v2.15.0` (2026-05-22)
 - **最近提交**: 2026-05-22
-- **发布时间**: 2026-05-22T04:59:40Z
 
 ## 流行度
 
-- **Star**: 997 · **Fork**: 128 · **开放 issue**: 119 · **贡献者**: 35
+- **Star**: 997 · **Fork**: 128 · **开放 issue**: 120 · **贡献者**: 35
 
 ## 累计统计
 
-- **发布数**: 56 · **已合并 PR**: 182 · **开放 PR**: 44 · **已关闭 issue**: 73 · **开放 issue**: 46 · **提交数**: 362
+- **发布数**: 56 · **已合并 PR**: 182 · **开放 PR**: 44 · **已关闭 issue**: 73 · **开放 issue**: 47 · **提交数**: 362
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 13 | 1 | 13 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 24 | 2 | 18 | 0 |
-| 360d | 2025-09-15 | 9 | 22 | 44 | 17 | 29 | 31 |
+| 30d | 2026-08-11 | 0 | 0 | 13 | 1 | 14 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 24 | 2 | 19 | 0 |
+| 360d | 2025-09-15 | 9 | 22 | 44 | 17 | 30 | 31 |
 
 ## 代码规模
 
@@ -61,4 +60,4 @@ mcpm.sh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:17:23Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:07:58Z._
