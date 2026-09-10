@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.15.0"
   latestRelease: "v2.15.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:07:51Z
+  collectedAt: 2026-09-10T23:56:11Z
 timeline:
   created: 2025-03-21
   lastCommit: 2026-05-22
@@ -89,7 +89,7 @@ total:
   commit: 362
 ---
 path: /home/runner/.x-repo/github.com/pathintegral-institute/mcpm.sh
-collectedAt: 2026-09-10T17:07:53Z
+collectedAt: 2026-09-10T23:56:13Z
 loc:
   Json:
     code: 104878
