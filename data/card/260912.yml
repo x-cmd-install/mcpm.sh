@@ -169,4 +169,3 @@ total:
 ---
 
 ---
-{"id":327594088,"author":{"login":"mcpm-semantic-release[bot]","id":207979982,"node_id":"BOT_kgDODGWFzg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOMVwYc4ThrBo","tag_name":"v2.15.0","target_commitish":"main","name":"v2.15.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-05-22T04:59:35Z","updated_at":"2026-05-22T04:59:40Z","published_at":"2026-05-22T04:59:40Z","assets":[],"body":"# [2.15.0](https://github.com/pathintegral-institute/mcpm.sh/compare/v2.14.0...v2.15.0) (2026-05-22)\n\n\n### Features\n\n* add OpenCode client manager + per-server enabled/disabled flag ([#313](https://github.com/pathintegral-institute/mcpm.sh/issues/313)) ([b7c4815](https://github.com/pathintegral-institute/mcpm.sh/commit/b7c481541be672abbf193082851898d8aad74449))\n\n\n\n"}
