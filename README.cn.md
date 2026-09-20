@@ -4,7 +4,7 @@
 
 CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 
-![mcpm.sh](https://repo.x-cmd.io/mcpm.sh.svg?lang=zh)
+[![x-cmd/install — mcpm.sh Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mcpm.sh.svg?lang=zh)](https://x-cmd.com/install/mcpm.sh)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install mcpm.sh
 
 ## 流行度
 
-- **Star**: 1,002 · **Fork**: 130 · **开放 issue**: 122 · **贡献者**: 35
+- **Star**: 1,004 · **Fork**: 130 · **开放 issue**: 122 · **贡献者**: 35
 
 ## 累计统计
 
-- **发布数**: 56 · **已合并 PR**: 182 · **开放 PR**: 46 · **已关闭 issue**: 75 · **开放 issue**: 47 · **提交数**: 362
+- **发布数**: 56 · **已合并 PR**: 182 · **开放 PR**: 47 · **已关闭 issue**: 75 · **开放 issue**: 47 · **提交数**: 362
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 15 | 1 | 12 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 21 | 3 | 16 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 24 | 3 | 17 | 0 |
-| last180d | 2026-03-22 | 2 | 1 | 37 | 8 | 25 | 6 |
-| 360d | 2025-09-23 | 8 | 20 | 46 | 19 | 30 | 28 |
-| last720d | 2024-09-28 | 56 | 182 | 46 | 75 | 47 | 362 |
+| 30d | 2026-08-21 | 0 | 0 | 17 | 1 | 12 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 21 | 3 | 16 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 25 | 3 | 17 | 0 |
+| last180d | 2026-03-24 | 2 | 1 | 38 | 8 | 25 | 3 |
+| 360d | 2025-09-25 | 8 | 20 | 47 | 19 | 30 | 28 |
+| last720d | 2024-09-30 | 56 | 182 | 47 | 75 | 47 | 362 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ mcpm.sh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:21:05Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:23:27Z._

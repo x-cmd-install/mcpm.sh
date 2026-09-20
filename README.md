@@ -4,7 +4,7 @@
 
 CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 
-![mcpm.sh](https://repo.x-cmd.io/mcpm.sh.svg)
+[![x-cmd/install — mcpm.sh Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mcpm.sh.svg)](https://x-cmd.com/install/mcpm.sh)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **125,226** lines of code across **509** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,002 · **Forks**: 130 · **Open issues**: 122 · **Contributors**: 35
+- **Stars**: 1,004 · **Forks**: 130 · **Open issues**: 122 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 182 · **Open PRs**: 46 · **Closed issues**: 75 · **Open issues**: 47 · **Commits**: 362
+- **Releases**: 56 · **Merged PRs**: 182 · **Open PRs**: 47 · **Closed issues**: 75 · **Open issues**: 47 · **Commits**: 362
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 15 | 1 | 12 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 21 | 3 | 16 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 24 | 3 | 17 | 0 |
-| last180d | 2026-03-22 | 2 | 1 | 37 | 8 | 25 | 6 |
-| 360d | 2025-09-23 | 8 | 20 | 46 | 19 | 30 | 28 |
-| last720d | 2024-09-28 | 56 | 182 | 46 | 75 | 47 | 362 |
+| 30d | 2026-08-21 | 0 | 0 | 17 | 1 | 12 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 21 | 3 | 16 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 25 | 3 | 17 | 0 |
+| last180d | 2026-03-24 | 2 | 1 | 38 | 8 | 25 | 3 |
+| 360d | 2025-09-25 | 8 | 20 | 47 | 19 | 30 | 28 |
+| last720d | 2024-09-30 | 56 | 182 | 47 | 75 | 47 | 362 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mcpm.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:21:04Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:23:27Z._
