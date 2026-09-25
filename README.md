@@ -47,12 +47,12 @@ Total: **125,226** lines of code across **509** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 14 | 1 | 10 | 0 |
-| last60d | 2026-07-26 | 0 | 0 | 18 | 2 | 15 | 0 |
-| 90d | 2026-06-26 | 0 | 0 | 24 | 3 | 17 | 0 |
-| last180d | 2026-03-28 | 1 | 1 | 38 | 8 | 25 | 3 |
-| 360d | 2025-09-29 | 8 | 20 | 47 | 18 | 30 | 28 |
-| last720d | 2024-10-04 | 56 | 182 | 47 | 75 | 47 | 362 |
+| 30d | 2026-08-26 | 0 | 0 | 13 | 1 | 9 | 0 |
+| last60d | 2026-07-27 | 0 | 0 | 18 | 2 | 15 | 0 |
+| 90d | 2026-06-27 | 0 | 0 | 24 | 3 | 17 | 0 |
+| last180d | 2026-03-29 | 1 | 1 | 38 | 8 | 25 | 3 |
+| 360d | 2025-09-30 | 8 | 19 | 47 | 18 | 30 | 28 |
+| last720d | 2024-10-05 | 56 | 182 | 47 | 75 | 47 | 362 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mcpm.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:05:13Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:22:35Z._
