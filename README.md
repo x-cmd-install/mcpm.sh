@@ -14,11 +14,11 @@ x install mcpm.sh
 
 ## Code insight
 
-Total: **125,226** lines of code across **509** files in the top 5 languages.
+Total: **125,838** lines of code across **517** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 104,878 | 0 | 1 | 385 |
+| Json | 105,490 | 0 | 1 | 393 |
 | Python | 16,866 | 1,804 | 4,056 | 115 |
 | Yaml | 2,300 | 4 | 739 | 2 |
 | Html | 564 | 26 | 46 | 6 |
@@ -33,26 +33,26 @@ Total: **125,226** lines of code across **509** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.15.0` (2026-05-22)
-- **Last commit**: 2026-05-22
+- **Last commit**: 2026-10-06
 
 ## Popularity
 
-- **Stars**: 1,010 · **Forks**: 135 · **Open issues**: 128 · **Contributors**: 35
+- **Stars**: 1,011 · **Forks**: 136 · **Open issues**: 128 · **Contributors**: 43
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 182 · **Open PRs**: 54 · **Closed issues**: 75 · **Open issues**: 53 · **Commits**: 362
+- **Releases**: 56 · **Merged PRs**: 190 · **Open PRs**: 48 · **Closed issues**: 75 · **Open issues**: 53 · **Commits**: 370
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 14 | 1 | 9 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 24 | 2 | 20 | 0 |
-| 90d | 2026-07-07 | 0 | 0 | 29 | 3 | 22 | 0 |
-| last180d | 2026-04-08 | 1 | 1 | 45 | 8 | 31 | 3 |
-| 360d | 2025-10-10 | 7 | 19 | 54 | 17 | 36 | 26 |
-| last720d | 2024-10-15 | 56 | 182 | 54 | 75 | 53 | 362 |
+| 30d | 2026-09-06 | 0 | 8 | 8 | 1 | 9 | 8 |
+| last60d | 2026-08-07 | 0 | 8 | 18 | 2 | 20 | 8 |
+| 90d | 2026-07-08 | 0 | 8 | 23 | 3 | 22 | 8 |
+| last180d | 2026-04-09 | 1 | 9 | 39 | 8 | 31 | 11 |
+| 360d | 2025-10-11 | 7 | 27 | 48 | 17 | 36 | 34 |
+| last720d | 2024-10-16 | 56 | 190 | 48 | 75 | 53 | 370 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mcpm.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:56:30Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:50:11Z._
