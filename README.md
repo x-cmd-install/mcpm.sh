@@ -37,22 +37,22 @@ Total: **125,838** lines of code across **517** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,011 · **Forks**: 136 · **Open issues**: 128 · **Contributors**: 43
+- **Stars**: 1,010 · **Forks**: 140 · **Open issues**: 128 · **Contributors**: 43
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 190 · **Open PRs**: 48 · **Closed issues**: 75 · **Open issues**: 53 · **Commits**: 370
+- **Releases**: 56 · **Merged PRs**: 190 · **Open PRs**: 51 · **Closed issues**: 75 · **Open issues**: 53 · **Commits**: 370
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 8 | 8 | 1 | 9 | 8 |
-| last60d | 2026-08-07 | 0 | 8 | 18 | 2 | 20 | 8 |
-| 90d | 2026-07-08 | 0 | 8 | 23 | 3 | 22 | 8 |
-| last180d | 2026-04-09 | 1 | 9 | 39 | 8 | 31 | 11 |
-| 360d | 2025-10-11 | 7 | 27 | 48 | 17 | 36 | 34 |
-| last720d | 2024-10-16 | 56 | 190 | 48 | 75 | 53 | 370 |
+| 30d | 2026-09-07 | 0 | 8 | 10 | 1 | 7 | 8 |
+| last60d | 2026-08-08 | 0 | 8 | 21 | 2 | 20 | 8 |
+| 90d | 2026-07-09 | 0 | 8 | 26 | 3 | 22 | 8 |
+| last180d | 2026-04-10 | 1 | 9 | 42 | 8 | 31 | 11 |
+| 360d | 2025-10-12 | 7 | 27 | 51 | 17 | 35 | 34 |
+| last720d | 2024-10-17 | 56 | 190 | 51 | 75 | 53 | 370 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mcpm.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:50:11Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:28:25Z._
