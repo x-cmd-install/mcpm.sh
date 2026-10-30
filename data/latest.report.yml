@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.15.0"
   latestRelease: "v2.15.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:19:54Z
+  collectedAt: 2026-10-30T06:11:53Z
 timeline:
   created: 2025-03-21
   lastCommit: 2026-10-08
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-05-22
   lastPrerelease: 
 popularity:
-  star: 1016
+  star: 1018
   watcher: 10
-  fork: 177
+  fork: 179
   release: 56
   contributor: 42
-  pullRequest: 316
-  issue: 151
+  pullRequest: 319
+  issue: 152
 language:
   Python: 851392
   HTML: 113090
@@ -33,63 +33,63 @@ language:
 totalBytes: 985049
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
-    mergedPR: 5
-    openPR: 46
+    mergedPR: 4
+    openPR: 48
     closedIssue: 1
-    openIssue: 24
+    openIssue: 25
     commit: 9
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 8
-    openPR: 56
+    openPR: 58
     closedIssue: 2
     openIssue: 34
     commit: 9
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 8
-    openPR: 63
+    openPR: 65
     closedIssue: 3
-    openIssue: 43
+    openIssue: 44
     commit: 9
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 1
     mergedPR: 9
-    openPR: 79
+    openPR: 81
     closedIssue: 8
-    openIssue: 52
+    openIssue: 53
     commit: 12
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 7
     mergedPR: 23
-    openPR: 92
+    openPR: 94
     closedIssue: 15
-    openIssue: 56
+    openIssue: 57
     commit: 34
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 56
     mergedPR: 190
-    openPR: 92
+    openPR: 94
     closedIssue: 76
-    openIssue: 75
+    openIssue: 76
     commit: 371
 total:
   release: 56
   mergedPR: 190
-  openPR: 92
+  openPR: 94
   closedIssue: 76
-  openIssue: 75
+  openIssue: 76
   commit: 371
 ---
 path: /home/runner/.x-repo/github.com/pathintegral-institute/mcpm.sh
-collectedAt: 2026-10-29T06:20:00Z
+collectedAt: 2026-10-30T06:11:55Z
 loc:
   Json:
     code: 105490
