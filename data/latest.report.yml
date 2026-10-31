@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.15.0"
   latestRelease: "v2.15.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:11:53Z
+  collectedAt: 2026-10-31T06:01:02Z
 timeline:
   created: 2025-03-21
   lastCommit: 2026-10-08
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-05-22
   lastPrerelease: 
 popularity:
-  star: 1018
+  star: 1017
   watcher: 10
   fork: 179
   release: 56
-  contributor: 42
-  pullRequest: 319
-  issue: 152
+  contributor: 43
+  pullRequest: 322
+  issue: 153
 language:
   Python: 851392
   HTML: 113090
@@ -33,63 +33,63 @@ language:
 totalBytes: 985049
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
-    mergedPR: 4
-    openPR: 48
+    mergedPR: 5
+    openPR: 47
     closedIssue: 1
-    openIssue: 25
+    openIssue: 23
     commit: 9
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
-    mergedPR: 8
-    openPR: 58
+    mergedPR: 9
+    openPR: 59
     closedIssue: 2
     openIssue: 34
     commit: 9
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 0
-    mergedPR: 8
-    openPR: 65
+    mergedPR: 9
+    openPR: 67
     closedIssue: 3
-    openIssue: 44
+    openIssue: 45
     commit: 9
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 1
-    mergedPR: 9
-    openPR: 81
+    mergedPR: 10
+    openPR: 83
     closedIssue: 8
     openIssue: 53
     commit: 12
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 7
-    mergedPR: 23
-    openPR: 94
+    mergedPR: 24
+    openPR: 96
     closedIssue: 15
-    openIssue: 57
+    openIssue: 58
     commit: 34
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 56
-    mergedPR: 190
-    openPR: 94
+    mergedPR: 191
+    openPR: 96
     closedIssue: 76
-    openIssue: 76
+    openIssue: 77
     commit: 371
 total:
   release: 56
-  mergedPR: 190
-  openPR: 94
+  mergedPR: 191
+  openPR: 96
   closedIssue: 76
-  openIssue: 76
+  openIssue: 77
   commit: 371
 ---
 path: /home/runner/.x-repo/github.com/pathintegral-institute/mcpm.sh
-collectedAt: 2026-10-30T06:11:55Z
+collectedAt: 2026-10-31T06:01:04Z
 loc:
   Json:
     code: 105490
