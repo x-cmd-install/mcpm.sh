@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.16.0"
   latestRelease: "v2.16.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:35:19Z
+  collectedAt: 2026-11-28T09:08:47Z
 timeline:
   created: 2025-03-21
   lastCommit: 2026-11-25
@@ -17,11 +17,11 @@ timeline:
 popularity:
   star: 1028
   watcher: 10
-  fork: 209
+  fork: 213
   release: 57
   contributor: 44
-  pullRequest: 371
-  issue: 181
+  pullRequest: 374
+  issue: 182
 language:
   Python: 854672
   HTML: 113090
@@ -33,7 +33,7 @@ language:
 totalBytes: 988329
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 3
     openPR: 49
@@ -41,55 +41,55 @@ recent:
     openIssue: 30
     commit: 5
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 1
     mergedPR: 10
-    openPR: 89
+    openPR: 92
     closedIssue: 2
-    openIssue: 54
+    openIssue: 55
     commit: 14
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 1
     mergedPR: 13
-    openPR: 100
+    openPR: 102
     closedIssue: 3
     openIssue: 65
     commit: 14
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 1
     mergedPR: 13
-    openPR: 118
+    openPR: 121
     closedIssue: 5
-    openIssue: 78
+    openIssue: 79
     commit: 14
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 8
     mergedPR: 25
-    openPR: 133
+    openPR: 136
     closedIssue: 13
-    openIssue: 84
+    openIssue: 85
     commit: 39
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 57
     mergedPR: 195
-    openPR: 134
+    openPR: 137
     closedIssue: 77
-    openIssue: 104
+    openIssue: 105
     commit: 376
 total:
   release: 57
   mergedPR: 195
-  openPR: 134
+  openPR: 137
   closedIssue: 77
-  openIssue: 104
+  openIssue: 105
   commit: 376
 ---
 path: /home/runner/.x-repo/github.com/pathintegral-institute/mcpm.sh
-collectedAt: 2026-11-27T09:35:20Z
+collectedAt: 2026-11-28T09:08:47Z
 loc:
   Json:
     code: 105490
